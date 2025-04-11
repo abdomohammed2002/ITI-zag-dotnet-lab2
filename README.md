@@ -25,6 +25,3 @@ answer: git checkout main
         locally : git tag -d tagName
         remotely : git push origin tagName
 
-
-
-        ![Alt text](https://github.com/username/repo/raw/main/image.png)
